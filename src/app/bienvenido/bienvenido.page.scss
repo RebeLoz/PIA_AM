@@ -1,0 +1,24 @@
+.container {
+  height: 100%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-header h1 {
+  margin-top: 0;
+}
+
+.button-container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.myphoto {
+  ion-content img {
+  height: 70vh !important;
+  width: auto !important;
+  align-items: center;
+  }
+  }
